@@ -1,7 +1,7 @@
 import Reat from "react"
 import {Badge} from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import HeroImage from "public/hero.webp"
+import HeroImage from "public/hero.jpg"
 import {ShoppingCart} from "lucide-react"
 import Image from "next/image"
 
